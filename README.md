@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I am Jens Lordén 👋
+I'm a software engineer mostly focusing on machine learning.
+Previously worked as a game programmer but now working as a machine learning engineer.
+
+- 📫 How to reach me: You can best reach me via [email](mailto:jenslorden@gmail.com)
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Jens_Lorden.svg?style=social&label=Follow%20%40Jens_Lorden)](https://twitter.com/Jens_Lorden)
 
 <!--
 **Celsuss/celsuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
