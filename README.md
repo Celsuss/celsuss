@@ -29,12 +29,13 @@ Previously worked as a game programmer but now working as a machine learning eng
 [![Twitter][Twitter_badge]][Twitter]
 [![LinkedIn][LinkedIn_badge]][LinkedIn]
 [![Instagram][Instagram_badge]][Instagram]
-![WeChat][WeChat_badge]
+[![WeChat][WeChat_badge]][WeChat]
 
 [mail]: mailto:jenslorden@gmail.com
 [Twitter]: https://twitter.com/jens_lorden/
 [LinkedIn]: https://www.linkedin.com/in/jens-lordén-24548660/
 [Instagram]: https://www.instagram.com/jenslorden/
+[WeChat]: weixin://dl/chat?wxid_e37j1kph3ozz22
 
 [gmail_badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Twitter_badge]: https://img.shields.io/badge/jens_lorden-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
